@@ -34,7 +34,7 @@
 
 ### 🌐 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/krishnababulaveti/)
+- 🔗 [LinkedIn](www.linkedin.com/in/krishna-babu-laveti)
 - 💌 **Email:** krishnababulaveti@gmail.com
 - 🧠 [LeetCode](https://leetcode.com/u/krishnababulaveti/)
 - 🌍 [Portfolio](https://krishnababulaveti.github.io)
