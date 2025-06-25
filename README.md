@@ -1,46 +1,50 @@
-## 👋 Hi there! I'm Krishna Babu Laveti
+<h1 align="center">🚀 Krishna Babu Laveti</h1>
 
-🎓 Final-year B.Tech student (CSE – AI & ML) at GMR Institute of Technology | CGPA: 9.58  
-🔍 GATE 2025 Qualified | 200+ LeetCode problems solved  
-💡 Passionate about building scalable web apps, smart dashboards, and AI-powered solutions  
-
----
-
-### 🔧 Tech Stack
-
-- **Languages:** Java, Python, JavaScript
-- **Web Development:** MERN Stack (MongoDB, Express, React, Node.js)
-- **Cloud & Tools:** ServiceNow (CSA & CAD Certified), Power BI, Git, Postman
-- **Machine Learning:** scikit-learn, pandas, numpy, matplotlib, Streamlit
-- **Databases:** MongoDB, MySQL
-- **Other Tools:** Firebase, Cloudinary, EmailJS, Excel Automation
+<p align="center">
+  🎓 Final-year B.Tech (CSE – AI & ML) @ GMR Institute of Technology | 📈 CGPA: 9.58 <br/>
+  🧠 GATE 2025 Qualified | 🧮 200+ LeetCode Problems Solved | 👨‍💻 Passionate Developer & Learner
+</p>
 
 ---
 
-### 💼 Projects
+### 🛠️ Tech Stack
 
-- 🏠 **Wanderlust** – Rental listing platform with authentication, image upload (Cloudinary), and reviews  
-- 🎓 **Student Project Management System** – Role-based dashboard with CGPA-based batch creation via Excel  
-- 🎶 **Spotify Clone** – Responsive frontend UI built with modern design principles  
-- 📊 **Election Dashboard (Power BI)** – Interactive dashboard on AP Assembly Elections data  
-- 🎬 **Movie Recommendation System** – Personalized recommendations using ML and Streamlit  
-- 🧑‍🏫 **Educational Org (ServiceNow)** – Smart admission & student-teacher data management using ServiceNow
-
-> View all my projects in the **Pinned Repositories** or under the [Projects Tab](https://github.com/KrishnaBabuLaveti?tab=repositories).
+- 💻 **Languages:** `Java` | `Python` | `JavaScript`
+- 🌐 **Web Development:** `Node.js` | `Express` | `MongoDB` *(MERN Stack)*
+- ☁️ **Cloud & Tools:** `ServiceNow (CSA & CAD)` | `Power BI` | `Git` | `GitHub`
+- 🧪 **Machine Learning:** `scikit-learn` | `pandas` | `numpy` | `matplotlib` | `Streamlit`
+- 🗃️ **Databases:** `MongoDB` | `MySQL`
 
 ---
 
-### 📫 Let's Connect
+### 💼 Featured Projects
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/krishnababulaveti)
-- 📧 Email: krishnababulaveti@gmail.com  
-- 🌐 [Portfolio Website](https://krishnababulaveti.github.io)
+| 📌 Project | 📝 Description |
+|-----------|----------------|
+| 🏠 **Wanderlust** | Rental listing platform with login, image upload (Cloudinary), and user reviews |
+| 🎓 **Student Project Manager** | Role-based dashboard with Excel-driven CGPA-based batch creation |
+| 🎶 **Spotify Clone** | Responsive frontend clone of Spotify with sleek UI |
+| 📊 **Election Dashboard (Power BI)** | Visualizes AP Assembly Elections by party, gender, and region |
+| 🎬 **Movie Recommender** | ML-based personalized movie suggestion system using Streamlit |
+| 🧑‍🏫 **EduOrg (ServiceNow)** | Admission automation and academic record management in ServiceNow |
+
+> 👉 Check out my [Pinned Repositories](https://github.com/KrishnaBabuLaveti?tab=repositories) for code & demos!
 
 ---
 
-### ⚡ Fun Facts
+### 🌐 Connect with Me
 
-- 🧩 I love solving logical puzzles and DSA problems  
-- 🧠 Constantly learning & improving – one project at a time  
-- 🎯 Aim: Become a software engineer driving impact through ML and scalable systems
+- 🔗 [LinkedIn](https://www.linkedin.com/in/krishnababulaveti/)
+- 💌 **Email:** krishnababulaveti@gmail.com
+- 🧠 [LeetCode](https://leetcode.com/u/krishnababulaveti/)
+- 🌍 [Portfolio](https://krishnababulaveti.github.io)
 
+---
+
+### 🎯 Fun & Facts
+
+- 🧩 Enjoy solving DSA problems & logic puzzles  
+- 🔍 Always exploring new tech & frameworks  
+- ⚡ Aim: Build scalable ML-powered apps that make a difference  
+
+---
