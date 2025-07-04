@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Final-year B.Tech (CSE – AI & ML) @ GMR Institute of Technology | 📈 CGPA: 9.58 <br/>
-  🧠 GATE 2025 Qualified | 🧮 200+ LeetCode Problems Solved | 👨‍💻 Passionate Developer & Learner
+  🧠 GATE 2025 Qualified | 🧮 280+ LeetCode Problems Solved | 👨‍💻 Passionate Developer & Learner
 </p>
 
 ---
